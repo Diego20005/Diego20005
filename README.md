@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Diego20005&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" />
 <h1 align="center">
     <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There!+👋;+I'm+Ujjwal!](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There!;I%C2%B4m+Diego+Rodriguez" alt="Typing SVG);" />
 </h1>
