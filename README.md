@@ -6,13 +6,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 <h3 align="center">Computer Systems Engineering Student </h3>
-<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
-🔭 I’m currently working on My side projects
-🌱 I’m currently learning MERN stack
-👯 I’m looking to collaborate on Interesting open source projects
-💬 Ask me about Java, SpringBoot, Express
-📫 How to reach me? Drop me an email at ujjwalbhatt09@gmail.com
-⚡ Fun fact Debugging was coined after removing bugs from computer hardware.
+💻 Full-stack developer passionate about building real-world systems  
+🔭 Working on automation platforms, library systems, and e-commerce projects  
+🌱 Learning backend architecture, networking, and cybersecurity  
+⚙️ Tech stack: Java, Spring Boot, MySQL, C#, HTML, CSS, JavaScript  
+🛰️ Interested in GPS monitoring systems and infrastructure technologies  
+💬 Ask me about software development, databases, and network configuration  
+⚡ Fun fact: Most of my projects start with “what if I automate this?”
 <h3 align="center">Connect with me 🌐</h3>
 <p align="center">
 <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="ujjwalbhatt09" height="40" width="40" /></a>
