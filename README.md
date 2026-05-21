@@ -17,10 +17,7 @@
 </ul>
 <h3 align="center">Connect with me 🌐</h3>
 <p align="center">
-<a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="ujjwalbhatt09" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="ujjwal-bhatt-b256271a3" height="40" width="40" /></a>
-<a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=light" alt="_ujjwalbhatt" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-emilio-rodriguez-rodriguez-8ba926314/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="ujjwal-bhatt-b256271a3" height="40" width="40" /></a>
 </p>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -35,7 +32,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalb09&count_private=true&border_radius=10&theme=react" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Diego20005&count_private=true&border_radius=10&theme=react%22%20alt=%22streak%20stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ujjwalb09&show_icons=true&locale=en&rank_icon=github&border_radius=10&theme=react" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalb09&show_icons=true&locale=en&layout=compact&border_radius=10&theme=react" alt="top langs" />
