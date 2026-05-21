@@ -6,13 +6,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 <h3 align="center">Computer Systems Engineering Student </h3>
-💻 Full-stack developer passionate about building real-world systems  
-🔭 Working on automation platforms, library systems, and e-commerce projects  
-🌱 Learning backend architecture, networking, and cybersecurity  
-⚙️ Tech stack: Java, Spring Boot, MySQL, C#, HTML, CSS, JavaScript  
-🛰️ Interested in GPS monitoring systems and infrastructure technologies  
-💬 Ask me about software development, databases, and network configuration  
-⚡ Fun fact: Most of my projects start with “what if I automate this?”
+<ul>
+<li>💻 Full-stack developer passionate about building real-world systems  </li>
+<li>🔭 Working on automation platforms, library systems, and e-commerce projects  </li>
+<li>🌱 Learning backend architecture, networking, and cybersecurity  </li>
+<li>⚙️ Tech stack: Java, Spring Boot, MySQL, C#, HTML, CSS, JavaScript  </li>
+<li>🛰️ Interested in GPS monitoring systems and infrastructure technologies  </li>
+<li>💬 Ask me about software development, databases, and network configuration  </li>
+<li>⚡ Fun fact: Most of my projects start with “what if I automate this?”</li>
+</ul>
 <h3 align="center">Connect with me 🌐</h3>
 <p align="center">
 <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="ujjwalbhatt09" height="40" width="40" /></a>
